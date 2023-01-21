@@ -1,16 +1,3 @@
-# animation_tut_vandad
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#A simple coin rotation animation using TweenAnimationBuilder
+<img src="https://user-images.githubusercontent.com/43848931/213877135-d9071a36-db51-498d-a6a0-8edbfff3e5b2.gif" width="300/>
+  
